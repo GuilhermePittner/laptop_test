@@ -47,5 +47,5 @@ def leiaReal(text):
     
     return value
 
-n = leiaReal('Digite um número real: ')
-print(n)
+#n = leiaReal('Digite um número real: ')
+#print(n)
